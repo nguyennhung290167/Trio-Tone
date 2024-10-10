@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 83519185
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: level
+      Dependencies: {}
+    Info_1:
+      Name: gameplay
+      Dependencies: {}
